@@ -1,5 +1,4 @@
 # hello-world
 My first repository!
 
-
-This is some information about myself.
+This is some new information about me!
